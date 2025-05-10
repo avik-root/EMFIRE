@@ -1,4 +1,4 @@
-# EMFIRE# 🔥 EMFIRE - Decentralized Group Wallet Platform 
+# 🔥 EMFIRE - Decentralized Group Wallet Platform 
 *By MintFire Technologies*
 
 ![EMFIRE Header](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXl3c2t1b3h4d2k5Z2V4M3VtOGV1eWx4bXh5Y3F5dDNwYjN4dGx3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs4kI2X9B7ctXvU4/giphy.gif)
