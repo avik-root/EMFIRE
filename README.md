@@ -66,8 +66,6 @@
 
 ### Home Page
 ![Home Page](https://raw.githubusercontent.com/avik-root/EMFIRE/main/%CE%A3MFIRE%20img/Home%20page.png)
-
-### Home Page EMFIRE
 ![Home Page EMFIRE](https://raw.githubusercontent.com/avik-root/EMFIRE/main/%CE%A3MFIRE%20img/Home%20page%20emfire.png)
 
 ### Login Page
