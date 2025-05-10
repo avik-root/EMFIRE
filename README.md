@@ -6,7 +6,6 @@
 
 [![EMFIRE - v1.2.0.1 Experimental](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Try+EMPOWER+Early+Access;Version+1.2.0+Experimental+Now+Live!)](https://9000-firebase-studio-1746882893268.cluster-htdgsbmflbdmov5xrjithceibm.cloudworkstations.dev/)
 
-
 > **Revolutionizing collective finance** with DAO-style group control, secure ETH vaults, and immersive visual feedback.  
 > Welcome to the **future of shared financial power**.
 
@@ -62,6 +61,36 @@
 > EMFIRE optionally supports **AI-based transaction scoring** from a trusted oracle to flag high-risk proposals. The group can enforce higher thresholds for riskier decisions!
 
 ---
+
+##Examples 
+
+### Home Page
+![Home Page](https://raw.githubusercontent.com/avik-root/EMFIRE/main/%CE%A3MFIRE%20img/Home%20page.png)
+
+### Home Page EMFIRE
+![Home Page EMFIRE](https://raw.githubusercontent.com/avik-root/EMFIRE/main/%CE%A3MFIRE%20img/Home%20page%20emfire.png)
+
+### Login Page
+![Login Page](https://raw.githubusercontent.com/avik-root/EMFIRE/main/%CE%A3MFIRE%20img/login%20page.png)
+
+### Wallet Setup
+![Wallet Setup](https://raw.githubusercontent.com/avik-root/EMFIRE/main/%CE%A3MFIRE%20img/Wallet%20Setup.png)
+
+### Dashboard
+![Dashboard](https://raw.githubusercontent.com/avik-root/EMFIRE/main/%CE%A3MFIRE%20img/DashBoard.png)
+
+### Group Details & Fund Wallet
+![Group Details](https://raw.githubusercontent.com/avik-root/EMFIRE/main/%CE%A3MFIRE%20img/Group%20Details%20%26%20Fund%20Wallet%20Card.png)
+
+### Transaction History with AI Risks
+![Transaction History](https://raw.githubusercontent.com/avik-root/EMFIRE/main/%CE%A3MFIRE%20img/Transaction%20History%20with%20AI%20risks.png)
+
+### Proposal Card
+![Proposal Card](https://raw.githubusercontent.com/avik-root/EMFIRE/main/%CE%A3MFIRE%20img/Proposal%20Card.png)
+
+### Owners & Settings
+![Owners & Settings](https://raw.githubusercontent.com/avik-root/EMFIRE/main/%CE%A3MFIRE%20img/Owners%20%26%20Settings.png)
+
 
 ## 📦 Getting Started
 
