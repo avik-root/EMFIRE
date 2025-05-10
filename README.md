@@ -1,7 +1,7 @@
 # 🔥 [ΣMFIRE](https://9000-firebase-studio-1746882893268.cluster-htdgsbmflbdmov5xrjithceibm.cloudworkstations.dev/) - Decentralized Group Wallet Platform
 *Ver 1.2.0.1 BETA*  
 *by MintFire Technologies*
-
+[![ΣMFIRE Official Website](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF00FF&color2=00FFF7&color3=00FF00&color4=FFA500&color5=FF0000&center=true&vCenter=true&width=480&lines=MintFire+Official+Website)]([https://mintfire.onrender.com](https://9000-firebase-studio-1746882893268.cluster-htdgsbmflbdmov5xrjithceibm.cloudworkstations.dev/))
 [![EMFIRE - v1.2.0.1 Experimental](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Try+EMPOWER+Early+Access;Version+1.2.0+Experimental+Now+Live!)](https://9000-firebase-studio-1746882893268.cluster-htdgsbmflbdmov5xrjithceibm.cloudworkstations.dev/)
 
 
