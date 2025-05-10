@@ -107,6 +107,6 @@ npm run dev
 
 ---
 
-## 🎉 Built with Love & Solidity by [MintFire](https://mintfire.xyz)
+## 🎉 Built with Love & Solidity by [MintFire](https://mintfire.onrender.com)
 
 > **Join the revolution. Vote. Propose. Govern. EMFIRE.** 🔥
