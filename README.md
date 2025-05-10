@@ -1,4 +1,4 @@
-# 🔥 EMFIRE - Decentralized Group Wallet Platform
+# 🔥 [ΣMFIRE](https://9000-firebase-studio-1746882893268.cluster-htdgsbmflbdmov5xrjithceibm.cloudworkstations.dev/) - Decentralized Group Wallet Platform
 *Ver 1.2.0.1 BETA*  
 *by MintFire Technologies*
 
