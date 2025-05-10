@@ -1,0 +1,163 @@
+{
+  "abi": [
+    {
+      "inputs": [
+        {"internalType": "address[]","name": "initialMembers","type": "address[]"},
+        {"internalType": "uint256","name": "_threshold","type": "uint256"}
+      ],
+      "stateMutability": "nonpayable",
+      "type": "constructor"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        {"indexed": true,"internalType": "uint256","name": "groupId","type": "uint256"},
+        {"indexed": true,"internalType": "address","name": "confirmer","type": "address"},
+        {"indexed": true,"internalType": "uint256","name": "proposalId","type": "uint256"}
+      ],
+      "name": "ProposalConfirmed",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        {"indexed": true,"internalType": "uint256","name": "groupId","type": "uint256"},
+        {"indexed": true,"internalType": "address","name": "proposer","type": "address"},
+        {"indexed": true,"internalType": "uint256","name": "proposalId","type": "uint256"}
+      ],
+      "name": "ProposalCreated",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        {"indexed": true,"internalType": "uint256","name": "groupId","type": "uint256"},
+        {"indexed": true,"internalType": "address","name": "executor","type": "address"},
+        {"indexed": true,"internalType": "uint256","name": "proposalId","type": "uint256"}
+      ],
+      "name": "ProposalExecuted",
+      "type": "event"
+    },
+    {
+      "inputs": [
+        {"internalType": "uint256","name": "groupId","type": "uint256"},
+        {"internalType": "uint256","name": "proposalId","type": "uint256"}
+      ],
+      "name": "confirmProposal",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {"internalType": "uint256","name": "groupId","type": "uint256"},
+        {"internalType": "address payable","name": "recipient","type": "address"},
+        {"internalType": "uint256","name": "amount","type": "uint256"},
+        {"internalType": "string","name": "description","type": "string"}
+      ],
+      "name": "createProposal",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {"internalType": "uint256","name": "groupId","type": "uint256"}
+      ],
+      "name": "deposit",
+      "outputs": [],
+      "stateMutability": "payable",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {"internalType": "uint256","name": "groupId","type": "uint256"},
+        {"internalType": "uint256","name": "proposalId","type": "uint256"}
+      ],
+      "name": "executeProposal",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {"internalType": "uint256","name": "groupId","type": "uint256"}
+      ],
+      "name": "getGroupDetails",
+      "outputs": [
+        {"internalType": "address","name": "creator","type": "address"},
+        {"internalType": "string","name": "name","type": "string"},
+        {"internalType": "uint256","name": "memberCount","type": "uint256"},
+        {"internalType": "uint256","name": "threshold","type": "uint256"},
+        {"internalType": "uint256","name": "balance","type": "uint256"}
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {"internalType": "uint256","name": "groupId","type": "uint256"}
+      ],
+      "name": "getGroupProposals",
+      "outputs": [
+        {
+          "components": [
+            {"internalType": "address","name": "proposer","type": "address"},
+            {"internalType": "address payable","name": "recipient","type": "address"},
+            {"internalType": "uint256","name": "amount","type": "uint256"},
+            {"internalType": "string","name": "description","type": "string"},
+            {"internalType": "bool","name": "executed","type": "bool"},
+            {"internalType": "uint256","name": "confirmationCount","type": "uint256"}
+          ],
+          "internalType": "struct EmfireGroup.Proposal[]",
+          "name": "",
+          "type": "tuple[]"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "groupCounter",
+      "outputs": [{"internalType": "uint256","name": "","type": "uint256"}],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {"internalType": "uint256","name": "","type": "uint256"}
+      ],
+      "name": "groups",
+      "outputs": [
+        {"internalType": "address","name": "creator","type": "address"},
+        {"internalType": "string","name": "name","type": "string"},
+        {"internalType": "uint256","name": "threshold","type": "uint256"},
+        {"internalType": "uint256","name": "balance","type": "uint256"}
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {"internalType": "uint256","name": "groupId","type": "uint256"},
+        {"internalType": "address","name": "member","type": "address"}
+      ],
+      "name": "isGroupMember",
+      "outputs": [{"internalType": "bool","name": "","type": "bool"}],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "proposalCounters",
+      "outputs": [{"internalType": "uint256","name": "","type": "uint256"}],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "stateMutability": "payable",
+      "type": "receive"
+    }
+  ]
+}
