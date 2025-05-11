@@ -62,8 +62,65 @@
 
 ---
 
-
 ## 📦 Getting Started
+
+## 🖼️ EMFIRE UI Preview
+
+---
+
+### 🏠 EMFIRE Home Page
+![EMFIRE Home Page](https://drive.google.com/uc?export=view&id=1saymUeMiPQIUaCFf3EszmXrPFL3_Keby)
+
+---
+
+### 🔐 Login Page
+![Login Page](https://drive.google.com/uc?export=view&id=1tTp8M0qKxEL4kVgvWdqk4dnyrPG5-kLW)
+
+---
+
+### 💼 Wallet Management
+![Wallet Management](https://drive.google.com/uc?export=view&id=1k3oYViXL67goG34gniGljEMvDocgwY4_)
+
+---
+
+### ➕ Join Groups
+![Join Groups](https://drive.google.com/uc?export=view&id=1tTp8M0qKxEL4kVgvWdqk4dnyrPG5-kLW)
+
+---
+
+### 📊 Dashboard
+![Dashboard](https://drive.google.com/uc?export=view&id=1s6ld7yvn22BzsFkhxPFL22SlxT1fUd9n)
+
+---
+
+### 💹 Transaction History
+![Transaction History](https://drive.google.com/uc?export=view&id=1YaPSwbuXJf0SYWcJTuFvDoDB5rrUlANw)
+
+---
+
+### 🤖 AI Powered Transaction
+![AI Powered Transaction](https://drive.google.com/uc?export=view&id=1SCIcEpnhJF48nsRhTsBmVtk7BGa4e4IS)
+
+---
+
+### 👥 Group & Wallet Fund Card
+![Group & Wallet Fund Card](https://drive.google.com/uc?export=view&id=1LLujmOVIQC6d4-6ba6tiZX3LkCXL863l)
+
+---
+
+### 📄 Proposal Card
+![Proposal Card](https://drive.google.com/uc?export=view&id=11ISIZICTKlwkd3zQEty3k73rcInkGZjz)
+
+---
+
+### ⚙️ Owners & Settings
+![Owners & Settings](https://drive.google.com/uc?export=view&id=1-uq2lFc2P1HLUSi1iQyL7VO70fkdVdyw)
+
+---
+
+## 🚀 More Coming Soon...
+
+Stay tuned for a live demo and animated version!
 
 ### Prerequisites
 - Node.js v18+
