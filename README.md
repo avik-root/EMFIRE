@@ -62,33 +62,6 @@
 
 ---
 
-##Examples 
-
-### Home Page
-![Home Page](https://raw.githubusercontent.com/avik-root/EMFIRE/main/%CE%A3MFIRE%20img/Home%20page.png)
-![Home Page EMFIRE](https://raw.githubusercontent.com/avik-root/EMFIRE/main/%CE%A3MFIRE%20img/Home%20page%20emfire.png)
-
-### Login Page
-![Login Page](https://raw.githubusercontent.com/avik-root/EMFIRE/main/%CE%A3MFIRE%20img/login%20page.png)
-
-### Wallet Setup
-![Wallet Setup](https://raw.githubusercontent.com/avik-root/EMFIRE/main/%CE%A3MFIRE%20img/Wallet%20Setup.png)
-
-### Dashboard
-![Dashboard](https://raw.githubusercontent.com/avik-root/EMFIRE/main/%CE%A3MFIRE%20img/DashBoard.png)
-
-### Group Details & Fund Wallet
-![Group Details](https://raw.githubusercontent.com/avik-root/EMFIRE/main/%CE%A3MFIRE%20img/Group%20Details%20%26%20Fund%20Wallet%20Card.png)
-
-### Transaction History with AI Risks
-![Transaction History](https://raw.githubusercontent.com/avik-root/EMFIRE/main/%CE%A3MFIRE%20img/Transaction%20History%20with%20AI%20risks.png)
-
-### Proposal Card
-![Proposal Card](https://raw.githubusercontent.com/avik-root/EMFIRE/main/%CE%A3MFIRE%20img/Proposal%20Card.png)
-
-### Owners & Settings
-![Owners & Settings](https://raw.githubusercontent.com/avik-root/EMFIRE/main/%CE%A3MFIRE%20img/Owners%20%26%20Settings.png)
-
 
 ## 📦 Getting Started
 
